@@ -54,7 +54,7 @@ p {
 
 .parallax-chico {
     height: 450px;
-    background-image: url(img/fondo1.png);
+    background-image: url(img/fondo.png);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
